@@ -4,19 +4,13 @@ icon: fas fa-info-circle
 order: 4
 ---
 
----
-title: About Me
-icon: fas fa-user
-order: 4
----
-
 # About Me
 
 Hi, I'm **Jad El Hakim**, a passionate cybersecurity enthusiast and Technical Analyst at Murex. I hold a Bachelor's degree in Computer Science and have earned CCNA and CompTIA Security+ certifications.
 
 ## Professional Background
 
-At Murex, I handle production issues for international banks using Murex's MX.3 software, providing L1 and L2 support, and improving software operability through detailed analysis and collaboration with related parties. My role has allowed me to gain valuable experience in:
+At Murex, I handle production issues for international banks using Murex's MX.3 software, providing L1 and L2 support, and improving software operability through detailed analysis and collaboration with related parties. My role, along with my constant training and certification has allowed me to gain valuable experience in:
 
 - **Cybersecurity:** Data Loss Prevention (DLP), Intrusion Detection Systems (IDS), Intrusion Prevention Systems (IPS), Vulnerability Assessment, Risk Management, Firewall Configuration, Network Security, Security Policy Development, OSINT, Threat Detection, Threat Analysis, SIEM, Security and Compliance Frameworks (SOC 2, ISO 27001, PCI DSS, NIST).
 - **Technical Analysis:** Incident Response, Incident Report Writing, Root Cause Analysis (RCA), Client Support, ServiceNow, ITIL, SLA Management, Monitoring Systems (Splunk), Log Analysis, Server-Side Investigations.
@@ -36,7 +30,7 @@ I have developed an internal web application using Flask/Python, vanilla JavaScr
 
 ## Current and Upcoming Training
 
-I am currently enrolled in the **SOC Analyst program from Hack The Box (HTB)**. Next on my training agenda are the **SOC Level 2 certification from TryHackMe**, and specialized training in **Splunk** and **Datadog**.
+I am currently enrolled in the **SOC Analyst program from Hack The Box (HTB)**. Next on my training agenda are the **SOC Level 2 certification from TryHackMe**, and specialized training in **Splunk** and **Datadog**. I will be also practicing with some **Hands On** projects that will documented in this blog.
 
 ## Personal Goals
 
