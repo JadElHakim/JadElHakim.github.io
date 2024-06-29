@@ -30,7 +30,7 @@ I have developed an internal web application using Flask/Python, vanilla JavaScr
 
 ## Current and Upcoming Training
 
-I am currently enrolled in the **SOC Analyst program from Hack The Box (HTB)**. Next on my training agenda are the **SOC Level 2 certification from TryHackMe**, and specialized training in **Splunk** and **Datadog**. I will be also practicing with some **Hands On** projects that will documented in this blog.
+I am currently enrolled in the **SOC Analyst program from Hack The Box (HTB)**. Next on my training agenda are the **SOC Level 2 certification from TryHackMe**, and specialized training in **Splunk** and **Datadog**. I will be also practicing with some **Hands On** projects that will BE documented in this blog.
 
 ## Personal Goals
 
