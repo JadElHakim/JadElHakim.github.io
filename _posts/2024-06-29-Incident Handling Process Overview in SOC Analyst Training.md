@@ -1,6 +1,6 @@
 ---
 title: "Incident Handling Process Overview in SOC Analyst Training"
-date: 2024-06-30 12:00:00 +0300
+date: 2024-06-29 12:00:00 +0300
 categories: [HTB SOC Analyst, Incident Handling Process]
 tags: [SOC, Incident Handling, HTB, Cybersecurity]
 ---
