@@ -2,7 +2,7 @@
 title: "Incident Handling Process Overview in SOC Analyst Training"
 date: 2024-06-29 12:00:00 +0300
 categories: [HTB SOC Analyst, Incident Handling Process]
-tags: [soc, incident handling, htb, cybersecurity]
+# tags: [soc, incident handling, htb, cybersecurity]
 ---
 
 As part of my ongoing training in the **Certified SOC Analyst (CSA) program from Hack The Box (HTB)**, I've been diving into the essential processes that underpin effective incident handling. The first section of the HTB SOC Analyst path, "Incident Handling Process Overview," provides a comprehensive introduction to the steps and best practices involved in managing and mitigating cybersecurity incidents. Here, I’ll share what I’ve learned so far.
