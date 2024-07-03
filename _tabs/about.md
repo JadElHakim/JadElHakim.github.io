@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# About Me
-
 Hi, I'm **Jad El Hakim**, a passionate cybersecurity enthusiast and Technical Analyst at Murex. I hold a Bachelor's degree in Computer Science and have earned CCNA and CompTIA Security+ certifications.
 
 ## Professional Background
