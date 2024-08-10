@@ -1,7 +1,7 @@
 ---
 title: "SIEM and SOC Fundamentals Overview"
 date: 2024-07-11 12:00:00 +0300
-categories: [HTB SOC Analyst, Security Monitoring & SIEM Fundamentals, SIEM & SOC Fundamentals]
+categories: [HTB SOC Analyst, Security Monitoring & SIEM Fundamentals, SIEM Visualization Development]
 # tags: [soc, siem, mitre att&ck, cybersecurity]
 ---
 

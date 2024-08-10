@@ -1,7 +1,7 @@
 ---
 title: "SIEM Visualization Examples"
 date: 2024-07-11 18:00:00 +0300
-categories: [HTB SOC Analyst, Security Monitoring & SIEM Fundamentals, SIEM & SOC Fundamentals]
+categories: [HTB SOC Analyst, Security Monitoring & SIEM Fundamentals, Alert Triaging]
 # tags: [siem, soc, cybersecurity, elastic stack, kibana]
 ---
 
