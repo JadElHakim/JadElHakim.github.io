@@ -7,7 +7,7 @@ categories: [HTB SOC Analyst, Security Monitoring & SIEM Fundamentals, SIEM & SO
 
 # SIEM Alert Triaging Process
 
-In this guide, we delve into the process of alert triaging within a Security Operations Center (SOC). The steps outlined here are crucial for evaluating and prioritizing security alerts to effectively manage potential security incidents.
+In this guide, we delved into the process of alert triaging within a Security Operations Center (SOC). The steps outlined here are crucial for evaluating and prioritizing security alerts to effectively manage potential security incidents.
 
 ## What Is Alert Triaging?
 
@@ -82,7 +82,7 @@ Alert triaging is the process SOC analysts use to evaluate and prioritize securi
 
 ## Conclusion
 
-The SIEM alert triaging process is a fundamental aspect of SOC operations, requiring a systematic approach to evaluate and prioritize security alerts. By mastering the steps outlined above, SOC analysts can ensure that critical threats are identified and addressed promptly, safeguarding the organization's assets and maintaining compliance with regulatory requirements.
+The SIEM alert triaging process is a fundamental aspect of SOC operations, requiring a systematic approach to evaluate and prioritize security alerts. By mastering these steps outlined above, as a SOC analysts I can ensure that critical threats are identified and addressed promptly, safeguarding the organization's assets and maintaining compliance with regulatory requirements.
 ---
 
 _This post is part of Jad's Cybersecurity Blog._

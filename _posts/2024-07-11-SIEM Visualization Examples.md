@@ -7,7 +7,7 @@ categories: [HTB SOC Analyst, Security Monitoring & SIEM Fundamentals, Alert Tri
 
 # SIEM Visualization Examples
 
-In this guide, we explore various SIEM visualizations using Kibana, focusing on creating dashboards that monitor critical security events. Each section provides a detailed walkthrough for setting up a specific visualization, accompanied by a screenshot of the final result.
+In this guide, we explored various SIEM visualizations using Kibana, focusing on creating dashboards that monitor critical security events. Each section provided a detailed walkthrough for setting up a specific visualization.
 
 ## SIEM Visualization Example 1: Failed Logon Attempts (All Users)
 
