@@ -7,13 +7,11 @@ categories: [Hands-on Projects, SOC Automation, Intro and Architecture]
 
 # SOC Automation Project: Gaining Hands-On Experience
 
-In this blog series, I'll be documenting my journey in gaining hands-on experience with Security Operations Center (SOC) automation. The focus will be on integrating various cybersecurity tools to streamline alert management and response actions. The key components of this project include the XDR Wazuh and SIEM for extended detection and response, Shuffle as the SOAR (Security Orchestration, Automation, and Response) tool, and The Hive as the alerting system.
+In this blog series, I'll be documenting my journey in gaining hands-on experience with Security Operations Center (SOC) automation. The focus will be on integrating various cybersecurity tools to streamline alert management and response actions. The key components of this project include the XDR and SIEM Wazuh for extended detection and response, Shuffle as the SOAR (Security Orchestration, Automation, and Response) tool, and The Hive as the Incident Response Platform.
 
 ---
 
 ## Architecture Overview
-
-To give you an idea of how these tools will interact, I've built a flowchart that visualizes the architecture of the SOC automation process (as shown in the attached picture). 
 
 ### Flow of Operations
 
