@@ -1,7 +1,7 @@
 ---
 title: "SOC Automation Project"
 date: 2024-09-01 20:00:00 +0300
-categories: [Hands-on Projects, SOC Automation, Intro and Architecture]
+categories: [Projects, SOC Automation, Intro and Architecture]
 # tags: [soc, automation, cybersecurity, SOAR, SIEM]
 ---
 
