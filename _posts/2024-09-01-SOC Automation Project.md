@@ -37,7 +37,7 @@ In this blog series, I'll be documenting my journey in gaining hands-on experien
 
 Below is the flowchart illustrating the architecture of the SOC automation process:
 
-![SOC Automation Flowchart](/assets/img/SOC%20Automation/flowchart.png)
+![SOC Automation Flowchart](/assets/img/SOCAutomation/flowchart.png)
 
 This flowchart provides a visual representation of how the different components in the system interact with each other to automate the SOC operations.
 
