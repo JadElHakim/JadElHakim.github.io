@@ -41,8 +41,6 @@ To install Wazuh, I used the following command to download and execute the offic
 curl -sO https://packages.wazuh.com/4.8/wazuh-install.sh && chmod +x ./wazuh-install.sh && sudo ./wazuh-install.sh -a -o -i
 ```
 
-The `-a`, `-o`, and `-i` flags ensure that the manager, agent, and Wazuh dashboard are installed in a single command.
-
 ---
 
 ## Installing TheHive
