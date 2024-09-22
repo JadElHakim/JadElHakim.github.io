@@ -5,8 +5,6 @@ categories: [Projects, SOC Automation, Setting up the Lab]
 # tags: [soc, automation, cybersecurity, SOAR, SIEM, Wazuh, TheHive]
 ---
 
-# SOC Automation Project: Spinning Up VMs and Installing Key Components
-
 In this blog post, I'll walk through setting up a Security Operations Center (SOC) automation lab environment. This setup will include spinning up both a Windows 11 VM and an Ubuntu 24.04 VM, installing Wazuh, configuring Sysmon on the Windows endpoint, and setting up TheHive for incident response. I opted for a local setup due to limited resources and to avoid cloud costs.
 
 ---
