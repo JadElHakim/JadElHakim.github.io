@@ -75,6 +75,8 @@ echo "deb [signed-by=/usr/share/keyrings/elasticsearch-keyring.gpg] https://arti
 sudo apt update
 sudo apt install elasticsearch
 ```
+> I did not install elasticsearch again since i am using the same machine for Wazuh and the Hive and ES was installed along with wazuh
+{: .prompt-error }
 
 ### Installing TheHive
 ```bash
