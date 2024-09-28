@@ -11,7 +11,8 @@ In this blog post, i'll walk through setting up a home lab for SOC (Security Ope
 
 ## Important Note
 
-For this setup, I kept all configurations to `localhost` to simplify communication between the services. Additionally, I set the **network mode** in my Oracle VirtualBox VMs to **Bridged Adapter** so that they could get assigned an IP on the same subnet. This allowed me to run both Wazuh and TheHive on the same server without cloud deployment, and I configured UFW on the Linux server to allow communication from the Windows endpoint.
+>For this setup, I kept all configurations to `localhost` to simplify communication between the services. Additionally, I set the **network mode** in my Oracle VirtualBox VMs to **Bridged Adapter** so that they could get assigned an IP on the same subnet. This allowed me to run both Wazuh and TheHive on the same server without cloud deployment, and I configured UFW on the Linux server to allow communication from the Windows endpoint.
+{: .prompt-info }
 
 ---
 
