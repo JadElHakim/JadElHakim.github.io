@@ -1,4 +1,3 @@
-
 ---
 title: "SOC Automation - Configuration of Wazuh and TheHive"
 date: 2024-09-10 20:00:00 +0300
