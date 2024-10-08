@@ -14,9 +14,9 @@ timezone: Asia/Beirut
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Jad's Cybersecurity Blog # the main title
+title: Jad EL-Hakim # the main title
 
-tagline: Learning and Projects in Cybersecurity # it will display as the sub-title
+tagline: Education and Projects in Cybersecurity # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A blog to showcase my cybersecurity projects and the learning process.
