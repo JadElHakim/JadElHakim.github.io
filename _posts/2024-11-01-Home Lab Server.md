@@ -1,6 +1,6 @@
 ---
 title: "Home Lab Server"
-date: 2024-11-16 08:00:00 +0300
+date: 2024-11-01 08:00:00 +0300
 categories: [Projects, Home Lab]
 ---
 
