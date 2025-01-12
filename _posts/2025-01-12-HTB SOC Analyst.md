@@ -5,8 +5,9 @@ date: 2025-01-12 10:00:00 +0300
 categories: [Cybersecurity, Courses, Learning]
 ---
 
-<iframe src="https://academy.hackthebox.com/achievement/669831/path/390" width="100%" height="600px"></iframe>
+![SOC Analyst Cert](/assets/img/SOC0-Analyst.png)
 
+Can be confirmed under https://academy.hackthebox.com/achievement/669831/path/390
 ---
 
 *This post is part of Jad's Cybersecurity Blog.*
