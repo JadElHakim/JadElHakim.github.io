@@ -17,18 +17,19 @@ At Murex, I handle production issues for international banks using Murex's MX.3 
 - **Database Management:** Elasticsearch, Oracle, MSSQL, PostgreSQL, Sybase.
 - **Linux:** Red Hat Enterprise, Debian.
 
-## Projects and Skills
-
-I have developed an internal web application using Flask/Python, vanilla JavaScript, HTML, CSS, and Elasticsearch. This project has honed my skills in both back-end and front-end development. My proficiency extends to various programming languages and networking technologies, which I continuously apply to solve real-world problems.
-
 ## Certifications
 
 - **[CCNA](https://www.credly.com/badges/12666797-ff89-4bc9-9117-4ed273117d65/linked_in_profile)** - Cisco Certified Network Associate
 - **[CompTIA Security+](https://www.credly.com/badges/8ea52e0a-34e0-4568-95ea-0101d6a3ac65/linked_in_profile)**
 
-## Current and Upcoming Training
+## Completed Trainings 
+ - **SOC Analyst program from Hack The Box (HTB)**
 
-I am currently enrolled in the **SOC Analyst program from Hack The Box (HTB)**. Next on my training agenda are the **SOC Level 2 certification from TryHackMe**, and specialized training in **Splunk** and **Datadog**. I will be also practicing with some **Hands On** projects that will BE documented in this blog.
+## Current and Upcoming Training
+ - **SOC Level 2 certification from TryHackMe**
+ - **Bug Bounty Hunter from Hack The Box (HTB)** (I will be using this course to widen my knowledge into offensive security, curating to my goals of having a wide range of Technical and Practical Knowledge in Cybersecurity)
+ - **maldevacademy.com course**
+ ...
 
 ## Personal Goals
 
@@ -36,7 +37,7 @@ My goal is to become a leading expert in cybersecurity, contributing to the prot
 
 ## Connect with Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jad-el-hakim-2b87571a4/) or check out my projects on [GitHub](https://github.com/your-username).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jad-el-hakim-2b87571a4/) or check out my projects on [GitHub](https://github.com/JadElHakim/).
 
 Thank you for visiting my blog. I hope you find my posts informative and insightful.
 
