@@ -9,4 +9,4 @@ categories: [Cybersecurity, Challenges, Learning]
 
 ---
 
-*This post is part of Jad's Cybersecurity Blog.*
+_This post is part of Jad's Cybersecurity Blog._

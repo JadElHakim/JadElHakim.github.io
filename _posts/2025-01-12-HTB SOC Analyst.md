@@ -11,4 +11,4 @@ categories: [Cybersecurity, Courses, Learning]
 <a href="https://academy.hackthebox.com/achievement/669831/path/390" target="_blank">This Link</a>
 ---
 
-*This post is part of Jad's Cybersecurity Blog.*
+_This post is part of Jad's Cybersecurity Blog._
