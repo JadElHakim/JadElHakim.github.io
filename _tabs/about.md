@@ -4,36 +4,49 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hi, I'm **Jad El Hakim**, a passionate cybersecurity enthusiast and Technical Analyst at Murex. I hold a Bachelor's degree in Computer Science and have earned CCNA and CompTIA Security+ certifications.
+Hi, I'm **Jad El Hakim**, a cybersecurity professional and **Product Security Manager at Murex** (FinTech). I hold a Bachelor's degree in Computer Science and have earned **CCNA** and **CompTIA Security+** certifications.
 
 ## Professional Background
 
-At Murex, I handle production issues for international banks using Murex's MX.3 software, providing L1 and L2 support, and improving software operability through detailed analysis and collaboration with related parties. My role, along with my constant training and certification has allowed me to gain valuable experience in:
+At **Murex**, I help improve the security posture of a FinTech product used by international financial institutions. My role focuses on driving product security outcomes end-to-end, working closely with engineering and stakeholders to reduce risk while enabling delivery.
 
-- **Cybersecurity:** Data Loss Prevention (DLP), Intrusion Detection Systems (IDS), Intrusion Prevention Systems (IPS), Vulnerability Assessment, Risk Management, Firewall Configuration, Network Security, Security Policy Development, OSINT, Threat Detection, Threat Analysis, SIEM, Security and Compliance Frameworks (SOC 2, ISO 27001, PCI DSS, NIST).
-- **Technical Analysis:** Incident Response, Incident Report Writing, Root Cause Analysis (RCA), Client Support, ServiceNow, ITIL, SLA Management, Monitoring Systems (Splunk), Log Analysis, Server-Side Investigations.
-- **Networking:** Routing, Switching, LAN/WAN Architectures, TCP/IP, Wireless Networks, Network Monitoring.
+### What I Do
+
+- **Vulnerability Management (end-to-end):** triage, assessment, prioritization, coordination with engineering, remediation tracking, and risk communication.
+- **External Penetration Tests:** manage the full lifecycle from **scoping and engagement** to **finding validation, tracking, and remediation closure**.
+- **Secure SDLC:** support and improve secure development practices across the product lifecycle.
+- **Secure by Design & Threat Modeling:** contribute to feature threat modeling and security reviews to ensure security is built in early.
+- **Product Security Improvements:** collaborate on **security features** and hardening initiatives that enhance resilience.
+- **Client Compliance Support:** assist with security & compliance questionnaires and evidence-based responses.
+
+## Technical Focus Areas
+
+- **Application & Product Security:** secure architecture reviews, vulnerability assessment, risk management, security requirements, security feature enablement, threat modeling.
+- **Secure Engineering & OWASP-aligned practices:** OWASP **SAMM** (program maturity), OWASP **ASVS** (application security verification), and **Secure by Design** principles.
+- **Security Frameworks & Compliance:** DORA, ISO 27001, NIST, PCI DSS, SOC 2 (supporting client expectations and questionnaires).
 - **Programming and Scripting:** Java, JavaScript, Python, C, C#, Bash, PowerShell, Flask, HTML, CSS.
-- **Database Management:** Elasticsearch, Oracle, MSSQL, PostgreSQL, Sybase.
+- **Databases:** Elasticsearch, Oracle, MSSQL, PostgreSQL, Sybase.
 - **Linux:** Red Hat Enterprise, Debian.
+- **Networking:** Routing, Switching, LAN/WAN, TCP/IP, network monitoring.
 
 ## Certifications
 
-- **[CCNA](https://www.credly.com/badges/12666797-ff89-4bc9-9117-4ed273117d65/linked_in_profile)** - Cisco Certified Network Associate
+- **[CCNA](https://www.credly.com/badges/12666797-ff89-4bc9-9117-4ed273117d65/linked_in_profile)** — Cisco Certified Network Associate  
 - **[CompTIA Security+](https://www.credly.com/badges/8ea52e0a-34e0-4568-95ea-0101d6a3ac65/linked_in_profile)**
 
-## Completed Trainings 
- - **SOC Analyst program from Hack The Box (HTB)**
+## Completed Trainings
+
+- **SOC Analyst program from Hack The Box (HTB)**
 
 ## Current and Upcoming Training
- - **SOC Level 2 certification from TryHackMe**
- - **Bug Bounty Hunter from Hack The Box (HTB)** (I will be using this course to widen my knowledge into offensive security, curating to my goals of having a wide range of Technical and Practical Knowledge in Cybersecurity)
- - **maldevacademy.com course**
- ...
+
+- **SOC Level 2 certification from TryHackMe**
+- **Bug Bounty Hunter from Hack The Box (HTB)** (to broaden my offensive-security skills and strengthen my overall security depth)
+  ...
 
 ## Personal Goals
 
-My goal is to become a leading expert in cybersecurity, contributing to the protection of digital assets and the advancement of secure technology practices. I believe in continuous learning and am always seeking to expand my knowledge and skills in this ever-evolving field.
+My goal is to become a leading expert in cybersecurity—especially in **product security**—by helping teams ship secure software, reduce risk, and adopt strong security engineering practices through continuous learning.
 
 ## Connect with Me
 

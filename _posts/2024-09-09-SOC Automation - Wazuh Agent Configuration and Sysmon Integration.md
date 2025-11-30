@@ -1,4 +1,3 @@
-
 ---
 title: "SOC Automation - Wazuh Agent Configuration and Sysmon Integration"
 date: 2024-09-09 20:00:00 +0300
