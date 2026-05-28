@@ -153,7 +153,7 @@ Example B: A High CVSS vulnerability in an internet-facing authentication compon
 The point is not to replace CVSS with another perfect score. The point is to avoid treating severity as a decision. Severity is input. Risk is the decision layer.
 
 
-> The above writeup is heavily focused on CVEs, but the same approach can be applied to any vulnerability, even if it does not have a CVE identifier. e.g.: For organizations that run regular internal/external pentests, the same approach can be applied to the findings of the pentests.
+> The above writeup is heavily focused on CVEs, but the same approach can be applied to any vulnerability, even if it does not have a CVE identifier. e.g.: For organizations that run regular internal/external pentests, the same approach can be applied to the pentest findings.
 {: .prompt-info }
 
 ---
