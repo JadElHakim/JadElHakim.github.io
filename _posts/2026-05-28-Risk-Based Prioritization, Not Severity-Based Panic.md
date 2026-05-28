@@ -9,7 +9,7 @@ categories: [AppSec, Vulnerability Management]
 
 As of 2026, and with the advancement of AI in offensive security and SAST, CVE volume is increasing, and for the subset of vulnerabilities that attackers do exploit, the exploitation window is shrinking. That combination creates a prioritization problem: teams have more findings to process, but less time to identify the ones that actually matter. 
 
-Examining the below reference from the Zero Day Clcok, we can see 2 major trends that support this claim:
+Examining the below reference from the Zero Day Clock, we can see 2 major trends that support this claim:
 
 **Time to Exploit**
 ![Zero Day Clock time to exploit chart](/assets/img/Risk%20Matrix/zerodayclock-tto.png)
