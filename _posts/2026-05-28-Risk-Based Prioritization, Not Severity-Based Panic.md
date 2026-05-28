@@ -17,7 +17,7 @@ Examining the below reference from the Zero Day Clock, we can see 2 major trends
 **Exploit Rate**
 ![Zero Day Clock exploit rate chart](/assets/img/Risk%20Matrix/Screenshot%202026-05-28%20201006.png)
 
-1. The time to exploit a CVE is nearing <24 hours, and it will reach it sooner than expected. (At the time of writing, the figure had already moved from roughly 2.4 days to 1.6 days within a 2 weeks, reinforcing how quickly the trend is changing.).
+1. The time to exploit a CVE is nearing <24 hours, and it will reach it sooner than expected. (At the time of writing, the figure had already moved from roughly 2.4 days to 1.6 days within 2 weeks, reinforcing how quickly the trend is changing.).
 2. The exploit rate is on a downward trend. There are too many CVEs reported and only a fraction of them are being exploited.
 
 This means that organizations are being flooded with vulnerabilities at a rate they cannot handle, and where they most definitely cannot effectively filter through the noise and focus on remediating the exploitable and critical CVEs. Hence, the panic.
