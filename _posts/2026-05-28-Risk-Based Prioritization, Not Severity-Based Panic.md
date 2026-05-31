@@ -22,7 +22,7 @@ Examining the below reference from the Zero Day Clock, we can see 2 major trends
 
 This means that organizations are being flooded with vulnerabilities at a rate they cannot handle, and where they most definitely cannot effectively filter through the noise and focus on remediating the exploitable and critical CVEs. Hence, the panic.
 
-Combining these 2 factors, it is apparent that relying on CVE severity/CVSS scores alone is not sufficient. To be able to filter through the flood of CVEs, teams should focus on understading the risk posed by each CVE, and prioritize based on that.
+Combining these 2 factors, it is apparent that relying on CVE severity/CVSS scores alone is not sufficient. To be able to filter through the flood of CVEs, teams should focus on understanding the risk posed by each CVE, and prioritize based on that.
 CVSS scores are a good starting point, but they do not take into account the specific context of the organization. CVSS even misses (or under represents) some of the most critical factors that affect the risk posed by a CVE such as:
  - The presence of an exploit in the wild.
  - Visibility of the vulnerable asset to the internet.
