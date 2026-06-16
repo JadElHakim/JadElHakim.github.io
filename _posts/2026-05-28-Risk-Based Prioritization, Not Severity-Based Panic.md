@@ -31,6 +31,8 @@ CVSS scores are a good starting point, but they do not take into account the spe
 
 Hence, it seems like the better idea is to take a risk-based approach to vulnerability management, and not just rely on severity-based panic. We can even see that the industry is moving towards this approach, namely NIST is now only looking at CVEs based on their own risk-based criteria. [NIST's 2026 NVD operations update](https://www.nist.gov/news-events/news/2026/04/nist-updates-nvd-operations-address-record-cve-growth)
 
+**UPDATE:** As of June 2026, CISA has issued BOD 26-04, requiring US Federal Civilian Executive Branch agencies to adopt a more risk-based approach to vulnerability management and remediation. The directive uses an SSVC-informed decision tree to assign remediation timelines based on factors such as exploitation status, exposure, and potential impact, rather than relying on severity alone. [CISA's 2026 vulnerability management update](https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk)
+
 # severity is not priority.
 A common mistake in vulnerability management is treating severity as the same thing as priority.
 
