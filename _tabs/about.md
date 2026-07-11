@@ -7,14 +7,13 @@ order: 4
 
 ## Application Security @ Murex | Fintech | AppSec
 
-I work in Application Security at Murex, focusing on application security, vulnerability management, penetration testing programs, threat modeling, and secure SDLC governance for complex financial software.
+I work in Application Security at Murex, where our team is responsible for securing MX.3, one of the world's largest and most complex capital markets platforms, developed and evolved over more than three decades.
 
-My path started in technical support at Murex, where I worked close to complex financial software, production issues, client environments, and the operational constraints behind enterprise systems. That experience gave me a strong foundation for security: understanding how  a product behaves in the real world before trying to secure it.
+As part of a small (but mighty) Application Security team, my role is to help embed security into the way MX.3 is designed, built, tested, and maintained. At this scale, security is rarely about individual findings; it's about building processes that enable engineering teams to make better security decisions.
 
-Today, my work covers vulnerability management, penetration testing programs, threat modeling, secure SDLC governance, and product security risk.
+My Path started in technical support at Murex. Understanding how the product behaves in production gave me a strong foundation before moving into security and influenced my approach to AppSec.
 
-On this blog, I write about AppSec, product security, security testing, vulnerability management, and the practical work of embedding security into software delivery.
-
+On this blog, I share my thoughts on `All Things Application Security`, and the practical challenges of integrating security into modern software engineering.
 
 ## Certifications
 
