@@ -31,7 +31,7 @@ CVSS scores are a good starting point, but they do not take into account the spe
 
 Hence, it seems like the better idea is to take a risk-based approach to vulnerability management, and not just rely on severity-based panic. We can even see that the industry is moving towards this approach, namely NIST is now only looking at CVEs based on their own risk-based criteria. [NIST's 2026 NVD operations update](https://www.nist.gov/news-events/news/2026/04/nist-updates-nvd-operations-address-record-cve-growth)
 
-**UPDATE:** As of June 2026, CISA has issued BOD 26-04, requiring US Federal Civilian Executive Branch agencies to adopt a more risk-based approach to vulnerability management and remediation. The directive uses an SSVC-informed decision tree to assign remediation timelines based on factors such as exploitation status, exposure, and potential impact, rather than relying on severity alone. [CISA's 2026 vulnerability management update](https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk)
+**UPDATE:** As of June 2026, CISA has issued BOD 26-04, requiring US Federal Civilian Executive Branch agencies to adopt a risk-based approach to vulnerability management and remediation. The directive uses an SSVC-informed decision tree to assign remediation timelines based on factors such as exploitation status, exposure, and potential impact, rather than relying on severity alone. [CISA's 2026 vulnerability management update](https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk)
 
 # severity is not priority.
 A common mistake in vulnerability management is treating severity as the same thing as priority.
@@ -117,12 +117,11 @@ Critical | 25 | Crown-jewel system, regulatory exposure, major financial/custome
 
 ### scoring. 5x5 or 5x25?
 
-The scoring can be done in a 5x5 matrix, where each axis is scored from 1 to 5, and then the scores are multiplied to get a final score. This is a simple approach that allows for easy prioritization. However, in a 5x5 matrix the band of classification is narrow and would lead to misclassified CVEs. For example, a CVE with a likelihood score of 5 and an impact score of 4 would have the same final score as a CVE with a likelihood score of 4 and an impact score of 5, even though the first CVE is more likely to be exploited than the second one.
+Many organizations use a traditional 5×5 risk matrix, where likelihood and impact are both scored from 1 to 5. While simple, it assumes both factors should carry equal weight.
 
-Hence, a better approach would be to use a 5x25 matrix, where the likelihood axis is scored from 1 to 5, and the impact axis is scored from 1 to 25. basically the square of 1 to 5. This allows for a wider band of classification and more accurate prioritization. Because in product environments, not all exploitable vulnerabilities are equal. A highly exploitable issue in a low-impact component should not automatically outrank a lower-likelihood issue affecting customer data, payment flows, authentication, or core availability.
+For vulnerability management, I prefer a 5×25 model. Likelihood remains on a 1–5 scale, while impact is weighted from 1–25 to better reflect business criticality. In practice, a highly exploitable vulnerability in a low-value internal component shouldn't automatically outrank a lower-likelihood issue affecting customer data, authentication, payment flows, or core availability.
 
-For example a CVE with a negligible impact and high likelihood would have a score of 5, while a CVE with a critical impact and low likelihood would have a score of 25. This allows for a more accurate prioritization of CVEs based on their risk. If we were to use a 5x5 matrix, both of these CVEs would have the same score of 25, which would lead to misclassification and misprioritization.
-Notably, a larger band would also allow for easier communication with stakeholders and clients. However, this is a whole other topic to be discussed later.
+The wider scoring range also reduces ties, resulting in clearer prioritization and more meaningful remediation queues.
 
 ### examples of the matrix. 
 
@@ -140,19 +139,22 @@ A possible interpretation is: 1-20 = <span class="text-success">Low</span>, 21-4
 
 #### matrix in action.
 
-Example A: A Critical CVSS vulnerability in an internal-only component with no PoC, no sensitive data, and compensating controls.
-- Likelihood: Low (2)
-- Impact: Low (4)
-- Final Score: 8 (Low Risk)
+Take for example an SCA scan reports 200 vulnerabilities, including 10 Critical findings. Engineering has capacity for 10 developer-days this sprint.
 
-Example B: A High CVSS vulnerability in an internet-facing authentication component with public exploit code and customer data exposure.
-- Likelihood: Very High (5)
-- Impact: Critical (25)
-- Final Score: 125 (Critical Risk)
+A severity-first approach would assign the entire sprint to the Critical findings.
+
+Using the risk matrix, however, you might discover that:
+
+- 6 Critical findings affect internal tools with no realistic attack path.(Low impact, low likelihood)
+- 3 High findings impact customer authentication and have public exploit code. (High impact, High likelihood)
+- 1 Medium finding affects a payment service that is internet-facing and already appears in CISA KEV. (Critical impact, Very High likelihood)
+
+Instead of spending all 10 developer-days on the Critical findings, the matrix prioritizes the vulnerabilities that present the greatest business risk, regardless of their CVSS score.
 
 ## the point.
 
-The point is not to replace CVSS with another perfect score. The point is to avoid treating severity as a decision. Severity is input. Risk is the decision layer.
+The point is not to replace CVSS with another perfect score. The point is to avoid treating severity as a decision. Severity is input. Risk is the decision layer. Security maturity isn't/Shouldn't be measured by how many vulnerabilities you fix.
+It's measured by whether you fixed the right ones.
 
 
 > The above writeup is heavily focused on CVEs, but the same approach can be applied to any vulnerability, even if it does not have a CVE identifier. e.g.: For organizations that run regular internal/external pentests, the same approach can be applied to the pentest findings.
