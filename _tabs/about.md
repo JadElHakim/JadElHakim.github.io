@@ -5,7 +5,7 @@ order: 4
 ---
 # About Me
 
-## Application Security @ Murex | Fintech | AppSec
+## Application Security Consultant @ Murex | Fintech | AppSec
 
 I work in Application Security at Murex, where our team is responsible for securing MX.3, one of the world's largest and most complex capital markets platforms, developed and evolved over more than three decades.
 
